@@ -13,7 +13,7 @@ $ pip install "cookiecutter>=1.7.0"
 Then run it against this repo:
 
 ```
-$ cookiecutter https://github.com/creimers/djangocms-docker-cookiecutter
+$ cookiecutter https://github.com/taut-and-yare/django-wagtail-cookiecutter
 ```
 
 Then it's totally up to you.
